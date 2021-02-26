@@ -70,14 +70,14 @@ Althougth this is a decisive discovery, further analyses are necessary to ensure
 
 A comparation between two of the most important features is done, facing color with cut and seeing how their combiantion affects the price. The following bar graph has been done showing the average price and the count of diamonds of every combiantion.
 
-<p align="center"><img src="https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/main/__trash__/Color-Cut_Analysis.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/main/__trash__/Color-Cut_Analysis.PNG"></p>
 
 In general, it seems that the fact to have some color makes the diamond more valuable than the colorless (D). The second best cut (Premium) and the worst (Fair) in all categories of color have the highest average price, instead of cut 'Ideal', that is supposed to be the best. 
 Maybe related with their rarity, as this type has the lower quantity. All these observations do not make much sense, so it is possible that another factor is at play.
 
 Other comparation could be done, facing color with clarity and observing how the average price and the counting varies.
 
-<p align="center"><img src="https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/main/__trash__/Color-Clarity_Analysis.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/main/__trash__/Color-Clarity_Analysis.PNG"></p>
  
 In the previous graph it can be seen that diamonds with color 'D' and clarity 'IF' are the most expensive from far. Is not a strange statement, as color 'D' and clarity 'IF' are the most flawless features. However, other types as colour 'I' or 'J' with clarity 'SI2' that are not very apreciate have high prices too, what is very strange.
 
@@ -133,6 +133,6 @@ This inverse formula is used to difine the diamond shape in order to archive the
      
 :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: 
 :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem:
- 
+:gem: :gem: :gem: :gem: :gem: :gem:
 
  
