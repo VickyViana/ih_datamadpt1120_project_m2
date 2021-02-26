@@ -8,7 +8,6 @@ This project consists of an analysis of the the dataset 'diamonds_train.csv' (in
 An extra bonus study has been performed, based on statistical hypotheses testing, comparing the different features of the diamonds in different samples.
 
 
-![Diamonds](https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/main/__trash__/diamonds.jpg)
 <p align="center"><img src="https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/main/__trash__/diamonds.jpg"></p>
 
 
@@ -51,8 +50,7 @@ A new column **'volume'** is created, multiplying measures x·y·z to obtain the
 
 First of all, to get an slight view of the dataset, we create a table with some basic statistical details of the data, like maximum, minimum, percentile, mean, std etc. You can see it below.
 
-![Resume](https://github.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/resume_table.png)
-<p align="center"><img src="https://github.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/resume_table.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/main/__trash__/resume_table.png"></p>
 
 
 
@@ -62,8 +60,7 @@ For diamonds, as everything in the world, what matters most is the price. We wan
 
 After comparing every feature with the price in a group of bar and scatter graphs, the only features that show a clear lineal relationship with the price are carat and the measures x, y and z (and consequently the volume). 
 
-![Resume](https://github.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/carat_lineal.png)
-<p align="center"><img src="https://github.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/carat_lineal.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/main/__trash__/carat_lineal.png"></p>
 
 This fact suggests that the most influent feature how big the carat is (the size of  the diamond is proportional to weight).
 
@@ -73,26 +70,22 @@ Althougth this is a decisive discovery, further analyses are necessary to ensure
 
 A comparation between two of the most important features is done, facing color with cut and seeing how their combiantion affects the price. The following bar graph has been done showing the average price and the count of diamonds of every combiantion.
 
-![Image](https://github.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/Color-Cut_Analysis.png)
-<p align="center"><img src="https://github.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/Color-Cut_Analysis.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/main/__trash__/Color-Cut_Analysis.png"></p>
 
 In general, it seems that the fact to have some color makes the diamond more valuable than the colorless (D). The second best cut (Premium) and the worst (Fair) in all categories of color have the highest average price, instead of cut 'Ideal', that is supposed to be the best. 
 Maybe related with their rarity, as this type has the lower quantity. All these observations do not make much sense, so it is possible that another factor is at play.
 
 Other comparation could be done, facing color with clarity and observing how the average price and the counting varies.
 
-![Image](https://github.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/Color-Clarity_Analysis.png)
-<p align="center"><img src="https://github.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/Color-Clarity_Analysis.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/main/__trash__/Color-Clarity_Analysis.png"></p>
  
 In the previous graph it can be seen that diamonds with color 'D' and clarity 'IF' are the most expensive from far. Is not a strange statement, as color 'D' and clarity 'IF' are the most flawless features. However, other types as colour 'I' or 'J' with clarity 'SI2' that are not very apreciate have high prices too, what is very strange.
 
 At this point, the only thing that we have clear is that the carat influence the price, so the most logical thing to do is to compare them with these characteristics as well. Some box graphs have been done comparing the carat with the cut and with the clarity.
 
-![Resume](https://github.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/box_cut.png)
-<p align="center"><img src="https://github.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/box_cut.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/main/__trash__/box_cut.png"></p>
  
-![Resume](https://github.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/box_cut.png)
-<p align="center"><img src="https://github.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/box_clarity.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/main/__trash__/box_clarity.png"></p>
  
  With these graphs it is clear that carat is a determining factor, because even if diamonds have features of low quality, the carats make their price rise considerably. In the end, **it was all in the carat!**
 
@@ -102,8 +95,7 @@ At this point, the only thing that we have clear is that the carat influence the
 We wanted to carry out a small study to observe the Table and Depth features. At a first sight, the table does not seem to be a determining factor to choose a diamond. 
 However, for professionals in the field it is well known that each cut has a specific table that makes them more brilliant.
 
-![Resume](https://github.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/table_depth.png)
-<p align="center"><img src="https://github.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/table_depth.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/main/__trash__/table_depth.png"></p>
 
 This graph represents an inverse lineal relationship between table and depth, when the table is increased the depth decreases. 
 This inverse formula is used to difine the diamond shape in order to archive the best reflection of light, a more beautiful sparkle and better visual balance.
@@ -139,7 +131,7 @@ This inverse formula is used to difine the diamond shape in order to archive the
 ```     
    
      
-:diamonds: :diamonds: :diamonds: :diamonds: :diamonds: :diamonds: :diamonds: :diamonds: :diamonds: :diamonds:
+:gem: :gem: :diamonds: :diamonds: :diamonds: :diamonds: :diamonds: :diamonds: :diamonds: :diamonds:
  
 
  
