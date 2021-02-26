@@ -1,19 +1,19 @@
-# ih_datamadpt1120_project_m1
-Ironhack Madrid - Data Analytics Part Time - January 2021 - Project Module 1
+# ih_datamadpt1120_project_m2
+Ironhack Madrid - Data Analytics Part Time - February 2021 - Project Module 2
 
 
-## **European data workers**
-The purpose of this project is to archive a resumed information about employed people in European countries that have jobs related with data analysis. The results obtained are presented in a dataframe, and consist of percentages of how many people work in each different job position, separated by gender and country. These results can be calculated for a particular country or for all at a time. 
+## **Breaking into the diamond market**
+This project consists of an analysis of the the dataset 'diamonds_train.csv' (included in data folder) in order to study the different features of the diamonds and how they affect in the price and between each other. The aim is to reach conclusions that will help us to understand the diamond market in terms of how to make the best deal. 
 
-An extra bonus information can be obtained, related to the opinion of each worker about basic income. An average of pro arguments and cons arguments will be shown for people with position in favour or against it. This outcome will be with regard of the country chosen in the begining (or all countries). 
+An extra bonus study has been performed, based on statistical hypotheses testing, comparing the different features of the diamonds in different samples.
 
 
 <p align="center">
-<img src="https://1.cms.s81c.com/sites/default/files/2019-01-30/1_Cloud-EU-data-responsibility.jpg">
+<img src="https://www.istockphoto.com/es/foto/diamantes-gm157338784-6240149">
 </p>
 
 
-## **How it works**
+## **First steps in the study**
 Clone this repository to your local folders. 
 
 :warning: Please be aware of the python version you are using and the libraries you need to have installed. See "Technology stack" section.
@@ -43,6 +43,16 @@ The rable resulted looks like this:
 |---|---|---|
 | Against | 0 | 2 |
 | In Favor | 1 | 1 |
+
+## **Conclusions**
+
+- The price of a diamond is lineal relationed with its carat (and consequently with the volume). This fact justifies why ordinary people consider the carat as the most important feature in a diamond.
+- Diamonds with cut 'D' and clarity 'IF' are the most expensive, as they have mostly the best cut ('Ideal'), have a relatively high carat and a low quantity available.
+- The table and the depth of a diamond has a inverse lineal relationship. This creates a perfect diamond shape to enhance the shine.
+
+
+Here you can find the Tableau dashboard with a resume of the most important data achieved --> [Dashboard](https://public.tableau.com/profile/maria.victoria.viana.colino#!/vizhome/ih_datamadpt1120_project_m2-Diamonds/DashboardDiamonds?publish=yes)
+
 
 ## **Technology stack**
 
