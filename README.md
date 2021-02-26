@@ -8,8 +8,8 @@ This project consists of an analysis of the the dataset 'diamonds_train.csv' (in
 An extra bonus study has been performed, based on statistical hypotheses testing, comparing the different features of the diamonds in different samples.
 
 
-![Diamonds](https://github.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/diamonds.jpg)
-<p align="center"><img src="https://github.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/diamonds.jpg"></p>
+![Diamonds](https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/diamonds.jpg)
+<p align="center"><img src="https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/diamonds.jpg"></p>
 
 
 ## **First steps in the study**
@@ -19,6 +19,7 @@ The dataset 'diamonds_train.csv' contains 40454 rows of different diamonds and 1
 - **Cut**: Quality of the angles, proportions, facets, and finishing details. The cuts are classified from worst to best quality as: Fair --> Good --> Very Good --> Premium --> Ideal.
 - **Color**: How colorless the diamond is. They are classified from less to more colourless as: J --> I --> H --> G --> F --> E --> D.
 - **Clarity**: How clean the diamond is of inclusions and blemishes. They are classified from wort to best as: I1 --> SI2 --> SI1 --> VS2 --> VS1 --> VVS2 --> VVS1 --> IF
+
 The meaning of these acronyms is:
 
 	FL (Flawless)
@@ -26,13 +27,20 @@ The meaning of these acronyms is:
 	IF (Internally Flawless)
 	
 	VVS1 (Very, Very Slightly Included 1)
+	
 	VVS2 (Very, Very Slightly Included 2)
 	VS1 (Very Slightly Included 1)
+	
 	VS2 (Very Slightly Included 2)
+	
 	SI1 (Slightly Included 1)
+	
 	SI2 (Slightly Included 2)
+	
 	I1 (Inclusions 1)
+	
 	I2 (Inclusions 2)
+	
 - **Depth**: Measurement from top to bottom, expressed as a percentage.
 - **Table**: It is the width of the flat facet on its surface, expressed as a percentage.
 - **Price**: Price in USD
