@@ -9,7 +9,7 @@ An extra bonus study has been performed, based on statistical hypotheses testing
 
 
 <p align="center">
-![Alt text](__trash__/diamonds.jpg)
+![Diamonds](__trash__/diamonds.jpg)
 </p>
 
 
@@ -43,7 +43,7 @@ A new column 'volume' is created, multiplying measures x*y*z to obtain the relat
 First of all, to get an slight view of the dataset, we create a table with some basic statistical details of the data, like maximum, minimum, percentile, mean, std etc. You can see it below.
 
 <p align="center">
-![Alt text](__trash__/resume_table.png)
+![Resume](__trash__/resume_table.png)
 </p>
 
 
