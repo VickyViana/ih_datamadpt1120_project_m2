@@ -8,8 +8,8 @@ This project consists of an analysis of the the dataset 'diamonds_train.csv' (in
 An extra bonus study has been performed, based on statistical hypotheses testing, comparing the different features of the diamonds in different samples.
 
 
-![Diamonds](https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/diamonds.jpg)
-<p align="center"><img src="https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/tree/main/__trash__/diamonds.jpg"></p>
+![Diamonds](https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/main/__trash__/diamonds.jpg)
+<p align="center"><img src="https://raw.githubusercontent.com/VickyViana/ih_datamadpt1120_project_m2/main/__trash__/diamonds.jpg"></p>
 
 
 ## **First steps in the study**
