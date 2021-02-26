@@ -131,7 +131,8 @@ This inverse formula is used to difine the diamond shape in order to archive the
 ```     
    
      
-:gem: :gem: :diamonds: :diamonds: :diamonds: :diamonds: :diamonds: :diamonds: :diamonds: :diamonds:
+:gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: 
+:gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem: :gem:
  
 
  
