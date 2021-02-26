@@ -1,3 +1,3 @@
-username = "nicolas.cortinas"
+username = "VickyViana"
 password = "tropico33"
-student = "nicolas"
+student = "Vicky Viana"
