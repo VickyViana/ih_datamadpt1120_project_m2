@@ -2,19 +2,68 @@
 Ironhack Madrid - Data Analytics Part Time - February 2021 - Project Module 2
 
 
-## **Breaking into the diamond market**
+# **Breaking into the diamond market**
 This project consists of an analysis of the the dataset 'diamonds_train.csv' (included in data folder) in order to study the different features of the diamonds and how they affect in the price and between each other. The aim is to reach conclusions that will help us to understand the diamond market in terms of how to make the best deal. 
 
 An extra bonus study has been performed, based on statistical hypotheses testing, comparing the different features of the diamonds in different samples.
 
 
 <p align="center">
-<img src="https://www.istockphoto.com/es/foto/diamantes-gm157338784-6240149">
+![Alt text](__trash__/diamonds.jpg)
 </p>
 
 
 ## **First steps in the study**
-Clone this repository to your local folders. 
+The dataset 'diamonds_train.csv' contains 40454 rows of different diamonds and 10 columns with the following features:
+
+- **Carat**: The weight of the diamond.
+- **Cut**: Quality of the angles, proportions, facets, and finishing details. The cuts are classified from worst to best quality as: Fair --> Good --> Very Good --> Premium --> Ideal.
+- **Color**: How colorless the diamond is. They are classified from less to more colourless as: J --> I --> H --> G --> F --> E --> D.
+- **Clarity**: How clean the diamond is of inclusions and blemishes. They are classified from wort to best as: I1 --> SI2 --> SI1 --> VS2 --> VS1 --> VVS2 --> VVS1 --> IF
+The meaning of these acronyms is:
+
+FL (Flawless)
+IF (Internally Flawless)
+VVS1 (Very, Very Slightly Included 1)
+VVS2 (Very, Very Slightly Included 2)
+VS1 (Very Slightly Included 1)
+VS2 (Very Slightly Included 2)
+SI1 (Slightly Included 1)
+SI2 (Slightly Included 2)
+I1 (Inclusions 1)
+I2 (Inclusions 2)
+- **Depth**: Measurement from top to bottom, expressed as a percentage.
+- **Table**: It is the width of the flat facet on its surface, expressed as a percentage.
+- **Price**: Price in USD
+- **x, y, z**: measures of the diamond in mm
+
+A new column 'volume' is created, multiplying measures x*y*z to obtain the relative volume of the diamond in mm3
+
+
+First of all, to get an slight view of the dataset, we create a table with some basic statistical details of the data, like maximum, minimum, percentile, mean, std etc. You can see it below.
+
+<p align="center">
+![Alt text](__trash__/resume_table.png)
+</p>
+
+
+
+## **Price, what matters?**
+
+For diamonds, as everything in the world, what matters most is the price. We want to center our analysis in how the price of the diamonds varies according to their characteristics, and which of these features has the most influence.
+
+After comparing every feature with the price in a group of bar and scatter graphs, the only features that show a clear lineal relationship with the price are carat and the measures x, y and z (and consequently the volume). 
+
+<p align="center">
+<img src="https://www.istockphoto.com/es/foto/diamantes-gm157338784-6240149">
+</p>
+
+This fact suggests that the most influent feature is the size of the carat (the size is proportional to weight).
+
+Althougth this is a decisive discovery, further analyses are necessary to ensure the statement.
+
+
+
 
 :warning: Please be aware of the python version you are using and the libraries you need to have installed. See "Technology stack" section.
 
