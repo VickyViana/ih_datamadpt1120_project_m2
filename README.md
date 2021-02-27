@@ -114,7 +114,7 @@ This inverse formula is used to difine the diamond shape in order to archive the
 ## **Technology stack**
 
 - **Programming Language**: Python 3.8
-- **Libraries in Use**: pandas, numpy, matplotlib, seaborn.
+- **Libraries in Use**: pandas, numpy, matplotlib, seaborn, scipy.stats.
 
 
 
