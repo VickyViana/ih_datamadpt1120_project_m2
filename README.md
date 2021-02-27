@@ -110,6 +110,8 @@ This inverse formula is used to difine the diamond shape in order to archive the
 
 :bell: Here you can find the Tableau dashboard with a resume of the most important data achieved --> [Dashboard](https://public.tableau.com/profile/maria.victoria.viana.colino#!/vizhome/ih_datamadpt1120_project_m2-Diamonds/DashboardDiamonds?publish=yes)
 
+:bell: Bonus statistical studies could be found in data_analysis_report.ipynb
+
 
 ## **Technology stack**
 
